@@ -14,6 +14,7 @@ function pressIt() {
       alert('G was pressed');
     }
   })
+}
 
 function pressIt(event) {
   var pressed = event.key
